@@ -43,6 +43,8 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 
 ![National Vehicle Fleet Composition by Fuel Type](images/national-fuel-composition-pie.png)
 
+*The pie leaves out the 1.7M vehicles with unknown fuel type, so its shares are slightly higher than in the report (e.g. gasoline 85.10% here vs 84.60% of all vehicles).*
+
 
 ![California vs Texas vs Florida vs New York - EV & HEV Comparison](images/ca-tx-fl-ny-ev-hev-comparison.png)
 
@@ -53,7 +55,7 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 ## 📄 Downloadable PDF Report
 [👉 Download Full Report](reports/U.S_Electric_Vehicle_Market.pdf)
 
-> The PDF is the original April 2026 report. Its recommendations (Texas, Florida, Georgia) were chosen by judgment; the updated, metric-based ranking above is in `notebooks/portfolio_checks.ipynb` and the [portfolio write-up](https://portfolio-mo.vercel.app/projects/us-ev-market-share).
+Covers data cleaning, national and state-level market share, alternative fuels, and the three states recommended for infrastructure investment. Every figure in it matches the notebooks and the portfolio write-up.
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/Mahabala-O/Analyzing-U.S.-Electric-Vehicle-Market-Share.git`
