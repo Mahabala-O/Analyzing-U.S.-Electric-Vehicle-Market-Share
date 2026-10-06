@@ -7,6 +7,8 @@
 ## 📋 Project Overview
 An intermediate data analysis project examining U.S. EV adoption patterns using state-level vehicle registration data across all 50 states and D.C.
 
+**Data:** light-duty vehicle registrations by state, **2023**, from the U.S. Department of Energy's [Alternative Fuels Data Center](https://afdc.energy.gov/vehicle-registration) (based on Experian registration data, rounded to the nearest 100).
+
 **Key deliverables:**
 - Cleaned and analyzed EV, PHEV, HEV, and gasoline market shares
 - Identified top/bottom adopting states and compared California vs. other large states
